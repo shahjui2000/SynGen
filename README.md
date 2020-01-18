@@ -4,7 +4,7 @@ Reduces the tedious task of copying and pasting \includegraphics a lot of time (
 use in the report) by a very basic python code.
 
 
-Takes 1 argument of the path of the folder containing images to be uploaded on latex and generates text file for the 
+Takes 1 argument of the path of the folder containing images to be uploaded on overleaf and generates text file for the 
 corresponding syntax needed in latex and saves the text file in the same folder.
 
 
