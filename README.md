@@ -1,4 +1,4 @@
-# Generating-syntax-fig-for-latex
+# Syntax Generator for Latex for figures
 
 Reduces the tedious task of copying and pasting \includegraphics a lot of time (for the number of images we 
 use in the report) by a very basic python code.
