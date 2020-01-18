@@ -8,10 +8,9 @@ corresponding syntax needed in latex and saves the text file in the same folder.
 
 
 Customize the fwrite part of the script as per your need such as:
-
 1.Adjust the height and width of image before running the script.
-
 2.Add in caption and label syntax if you want to beforehand.
 
-
 Make sure the folder does not contain anyhting other than the images.
+
+Also found this bash script which uploads files to overleaf.
